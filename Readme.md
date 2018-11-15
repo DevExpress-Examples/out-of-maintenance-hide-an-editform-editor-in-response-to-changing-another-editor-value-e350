@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # Hide an EditForm editor in response to changing another editor value
 
 
