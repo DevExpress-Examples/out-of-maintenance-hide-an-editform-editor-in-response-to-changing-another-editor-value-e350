@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # Hide an EditForm editor in response to changing another editor value
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e350)**
+**[[Run Online]](https://codecentral.devexpress.com/e350/)**
 <!-- run online end -->
 
 
